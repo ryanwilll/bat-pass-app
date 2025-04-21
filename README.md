@@ -1,6 +1,6 @@
 # 🦇 BatPassa Generator
 
-![App Screenshot](./assets/batLogo.png)
+![App Screenshot](./src/assets/batLogo.png)
 
 O **BatPassa Generator** é um app simples e divertido feito em **React Native** com **Expo** que gera senhas seguras e aleatórias — com um toque do estilo do Cavaleiro das Trevas 🦇.
 
@@ -61,7 +61,7 @@ npm start
 
 ## Tela do App
 
-![BatApp Screen](./src/assets/screenshot.png)
+<img src="./src/assets/screenshot.png" width="600" />
 
 ---
 
