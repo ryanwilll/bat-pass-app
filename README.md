@@ -80,6 +80,6 @@ Durante o desenvolvimento, aprendi bastante sobre:
 
 ## 📬 Contato
 
-Se quiser trocar uma ideia ou dar algum feedback, me chama lá no [Linkeding](https://www.linkedin.com/in/ryanwilldaros/) 😄
+Se quiser trocar uma ideia ou dar algum feedback, me chama lá no [Linkedin](https://www.linkedin.com/in/ryanwilldaros/) 😄
 
 Feito com 💛 e um pouco de escuridão 🦇 por [Ryan Will](https://www.linkedin.com/in/ryanwilldaros/).
